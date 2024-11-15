@@ -2,7 +2,7 @@
 
 ## What is this?
 
-The Searchcraft engineering team often does small coding exercises together to compare solutions that we may come up with for a problem. These exercises are scoped to be completed in an hour or less.
+The Searchcraft engineering team often does small coding exercises together to compare solutions that we may come up with for a problem. These exercises are scoped to be completed in an hour or less.  The focus is sharing together the process of solving the problem and to highlight creativity. As the goal is to complete something with an hour, there are times when the solution may not be fully functional.
 
 ## Exercise Parameters
 
