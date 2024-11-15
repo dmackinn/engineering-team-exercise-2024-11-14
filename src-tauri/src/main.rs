@@ -1,0 +1,3 @@
+fn main() {
+    wraithspire::run();
+}
